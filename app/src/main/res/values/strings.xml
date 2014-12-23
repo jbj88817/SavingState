@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SaveData</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_str_nodes">Nodes</string>
+    <string name="btn_settings">Settings</string>
+    <string name="et_nodes">Enter Nodes</string>
+
+</resources>
